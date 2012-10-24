@@ -1,0 +1,38 @@
+body.ui-mobile-viewport{}
+body#body-paint{
+	background: linear-gradient(#efece3, #efece3) repeat scroll 0 0 #efece3 !important;
+}
+.ui-paint{
+    background: none repeat scroll 0 0 #da4936;
+    border-bottom: 3px solid #ad3a27;
+    color: #FFFFFF;
+}
+.ui-paint h1{
+    color: #FFFFFF;
+    font-size: 19px !important;
+    text-shadow: 1px 1px 1px #333333;
+}
+.ui-paint-footer{
+    background: none repeat scroll 0 0 #423837;
+    border-top: 3px solid #4c4241;
+}
+.ui-btn-active{
+	background: linear-gradient(#423837, #423837) repeat scroll 0 0 #423837;
+	border: 1px solid #423837;
+}
+.ui-btn-corner-all{border-radius: 24px 24px 24px 24px;}
+.ui-paint i{font-size: 19px;}
+.ui-paint-footer i{font-size: 21px;}
+.ui-paint-footer h3{margin: 6px 0;}
+.content-middle{
+    background: none repeat scroll 0 0 #EFECE3;
+    padding: 52px 15px;}
+.middle-paint{
+    text-align: center;
+    width: 100%;
+}
+.middle-paint p{margin:0; }
+.middle-canvass{
+
+}
+#map_canvas{position: fixed !important;}
